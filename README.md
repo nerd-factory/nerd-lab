@@ -19,7 +19,10 @@ The source of the Nerd Lab landing page.
 One HTML file, one stylesheet, one small script, and the brand assets. No framework, no
 bundler, no build step. `git clone` and open it — what you see locally is what ships.
 
-The rest of the lab is at [github.com/nerd-factory](https://github.com/nerd-factory).
+The rest of the lab is at [github.com/nerd-factory](https://github.com/nerd-factory), which
+also hosts [unaiverse](https://github.com/nerd-factory/unaiverse) — a fork rather than a
+transfer, deliberately: the live site at https://mafiatun.github.io/unaiverse stays the
+canonical address, and transferring would have killed that URL without a redirect.
 If you are looking for a way in rather than a way to fix the CSS, start at
 [Discussions](https://github.com/nerd-factory/nerd-lab/discussions).
 
