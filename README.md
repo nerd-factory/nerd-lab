@@ -21,7 +21,7 @@ bundler, no build step. `git clone` and open it — what you see locally is what
 
 The rest of the lab is at [github.com/nerd-factory](https://github.com/nerd-factory).
 If you are looking for a way in rather than a way to fix the CSS, start at
-[Discussions](https://github.com/orgs/nerd-factory/discussions).
+[Discussions](https://github.com/nerd-factory/nerd-lab/discussions).
 
 ## Running it
 

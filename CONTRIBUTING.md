@@ -9,7 +9,7 @@ page at all, you have already cleared the bar.
 
 Genuinely, start here. This is the intended door, not the consolation one.
 
-1. Go to **[Discussions](https://github.com/orgs/nerd-factory/discussions)**.
+1. Go to **[Discussions](https://github.com/nerd-factory/nerd-lab/discussions)**.
 2. Post the question you are worried is too basic. It is not too basic. The people who
    built this stuff were confused about it first, usually for longer than you have been.
 3. That is the whole first step. You have now contributed — an unanswered question is a
