@@ -19,6 +19,14 @@ The source of the Nerd Lab landing page.
 One HTML file, one stylesheet, one small script, and the brand assets. No framework, no
 bundler, no build step. `git clone` and open it — what you see locally is what ships.
 
+## Live experiments
+
+| Experiment | Live | Source |
+|---|---|---|
+| UN Data Commons Field Guide | https://mafiatun.github.io/un-data-commons-field-guide/ | [MafiAtUN/un-data-commons-field-guide](https://github.com/MafiAtUN/un-data-commons-field-guide) |
+| AI at UNGA81 | https://mafiatun.github.io/unga81-ai-events/ | [MafiAtUN/unga81-ai-events](https://github.com/MafiAtUN/unga81-ai-events) |
+| UNAIVERSE | https://mafiatun.github.io/unaiverse | [nerd-factory/unaiverse](https://github.com/nerd-factory/unaiverse) |
+
 The rest of the lab is at [github.com/nerd-factory](https://github.com/nerd-factory), which
 also hosts [unaiverse](https://github.com/nerd-factory/unaiverse) — a fork rather than a
 transfer, deliberately: the live site at https://mafiatun.github.io/unaiverse stays the
@@ -76,8 +84,6 @@ site is served from a subpath — then publishes the directory to GitHub Pages.
 - The title sequence audio is a scratch mix: TTS dialogue over a synthesised temp bed.
   The video is muted by default because of this. It needs a real mix and a captions
   track before the media is WCAG-complete.
-- `experiment-002` and `experiment-003` are placeholders. They are meant to be replaced
-  by real things, not to become a running joke.
 
 ## Licence
 
