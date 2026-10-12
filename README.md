@@ -27,7 +27,7 @@ bundler, no build step. `git clone` and open it — what you see locally is what
 | AI at UNGA81 | https://mafiatun.github.io/unga81-ai-events/ | [MafiAtUN/unga81-ai-events](https://github.com/MafiAtUN/unga81-ai-events) |
 | Country Classification Commons | https://mafiatun.github.io/country-classification-commons/ | [MafiAtUN/country-classification-commons](https://github.com/MafiAtUN/country-classification-commons) |
 | UNAIVERSE | https://mafiatun.github.io/unaiverse | [nerd-factory/unaiverse](https://github.com/nerd-factory/unaiverse) |
-| undata *(in the lab)* | `pip install "git+https://github.com/nerd-factory/undata"` | [nerd-factory/undata](https://github.com/nerd-factory/undata) |
+| undata *(in the lab)* | https://nerd-factory.github.io/undata/ | [nerd-factory/undata](https://github.com/nerd-factory/undata) |
 | Four Years Left | https://mafiatun.github.io/four-years-left/ | [MafiAtUN/four-years-left](https://github.com/MafiAtUN/four-years-left) |
 | The Future Is Not Artificial | https://mafiatun.github.io/sunia-ai-talk-2026/ | [MafiAtUN/sunia-ai-talk-2026](https://github.com/MafiAtUN/sunia-ai-talk-2026) |
 | The Ledger of Trust | https://mafiatun.github.io/asthar-khotiyan/ | [MafiAtUN/asthar-khotiyan](https://github.com/MafiAtUN/asthar-khotiyan) |
