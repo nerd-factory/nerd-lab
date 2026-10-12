@@ -26,6 +26,7 @@ bundler, no build step. `git clone` and open it — what you see locally is what
 | UN Data Commons Field Guide | https://mafiatun.github.io/un-data-commons-field-guide/ | [MafiAtUN/un-data-commons-field-guide](https://github.com/MafiAtUN/un-data-commons-field-guide) |
 | AI at UNGA81 | https://mafiatun.github.io/unga81-ai-events/ | [MafiAtUN/unga81-ai-events](https://github.com/MafiAtUN/unga81-ai-events) |
 | UNAIVERSE | https://mafiatun.github.io/unaiverse | [nerd-factory/unaiverse](https://github.com/nerd-factory/unaiverse) |
+| undata *(in the lab)* | `pip install "git+https://github.com/nerd-factory/undata"` | [nerd-factory/undata](https://github.com/nerd-factory/undata) |
 
 The rest of the lab is at [github.com/nerd-factory](https://github.com/nerd-factory), which
 also hosts [unaiverse](https://github.com/nerd-factory/unaiverse) — a fork rather than a
